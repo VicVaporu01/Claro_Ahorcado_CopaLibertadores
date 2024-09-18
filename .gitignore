@@ -1,0 +1,61 @@
+# Compilación
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Archivos de configuración de VSCode
+.vscode/
+
+# Archivos de sistema de Unity
+/[Aa]ssets/[Ss]treaming[Aa]ssets/
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata*/
+
+# Archivos específicos de compilación de Visual Studio
+*.csproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.dll
+*.exe
+*.pdf
+*.mid
+*.midi
+*.vrm
+*.vrma
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Configuración de mono y editor de scripts
+*.booproj
+*.pidb.meta
+*.sln
+
+# Ignorar cualquier archivo de imagen no esencial
+.DS_Store
+*.apk
+*.aab
+
+# Archivos de configuración de IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Archivos de configuración de JetBrains Rider
+.idea/
+.idea/workspace.xml
+.idea/gradle.xml
+.idea/libraries
+.idea/modules.xml
+.idea/.name
+.idea/misc.xml
+*.iml
+.gradle/
