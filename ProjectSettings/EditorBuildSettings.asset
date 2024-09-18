@@ -10,10 +10,10 @@ EditorBuildSettings:
     guid: 3a3a22be2aaac4e44b2073cf8890e529
   - enabled: 1
     path: Assets/Scenes/MainMenu.unity
-    guid: 3beeecd35254b8c4282ce69b90dfeb8d
+    guid: 8398735fa94b97147bbe15a816cf0937
   - enabled: 1
     path: Assets/Scenes/MainMenuMobile.unity
-    guid: cf5b4af3bb7c9604bbb765d469e1e776
+    guid: 85a61d6be6ef1d74494a822edb760d0f
   - enabled: 1
     path: Assets/Scenes/Level 1.unity
     guid: 5175983402c164341887b71db2a24d7a
@@ -25,5 +25,5 @@ EditorBuildSettings:
     guid: 40f6b6d00286fff47845923c082352ce
   - enabled: 1
     path: Assets/Scenes/RankingSceneMobile.unity
-    guid: 373c06de56792a8478030da1a74274c2
+    guid: 660a841a13ebd77468eeba8dc30fa7fb
   m_configObjects: {}
